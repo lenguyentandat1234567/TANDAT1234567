@@ -1,0 +1,20 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Quan_Ly_Thu_Vien
+build_property.RootNamespace = Quan_Ly_Thu_Vien
+build_property.ProjectDir = D:\thực tập\Quan Ly Thu Vien\Quan Ly Thu Vien\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\thực tập\Quan Ly Thu Vien\Quan Ly Thu Vien
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/thực tập/Quan Ly Thu Vien/Quan Ly Thu Vien/Views/Share/Layoutview.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVcTGF5b3V0dmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
